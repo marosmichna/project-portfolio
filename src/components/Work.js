@@ -1,6 +1,7 @@
 import React from 'react';
 import WorkImg from "../images/WorkImg.jpg";
 import RealWork from "../images/RealWork.png"
+import NameAgeApp from "../images/name-age-app.png"
 
 const Work = () => {
   return (
@@ -17,20 +18,20 @@ const Work = () => {
 
                 {/* Grid Item */}
 
-                <div style={{backgroundImage: `url(${WorkImg})`}}
+                <div style={{backgroundImage: `url(${NameAgeApp})`}}
                     className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto container-div">
 
                     {/* Hover Effects */}
 
                     <div className="opacity-0 group-hover:opacity-100">
                         <span className="text-2xl font-bold text-white tracking-wider drop-shadow-lg shadow-black">
-                            React JS Application
+                            Name-Age Todo App
                         </span>
                         <div className="pt-8 text-center">
-                            <a href="/">
+                            <a href="https://name-age-931l2or26-marosmichna.vercel.app/?fbclid=IwAR04QRr77g7p7fbgmyKorlaPjAQ8nqGXejPGnUqZRgPBJmmgg2BkT7KcYtU">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/marosmichna/name-age-app">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                             </a>
                         </div>
