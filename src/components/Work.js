@@ -29,7 +29,7 @@ const Work = () => {
                             Name-Age Todo App
                         </span>
                         <div className="pt-8 text-center">
-                            <a href="https://name-age-931l2or26-marosmichna.vercel.app/?fbclid=IwAR04QRr77g7p7fbgmyKorlaPjAQ8nqGXejPGnUqZRgPBJmmgg2BkT7KcYtU">
+                            <a href="name-age-app.vercel.app">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                             </a>
                             <a href="https://github.com/marosmichna/name-age-app">
