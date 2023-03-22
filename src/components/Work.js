@@ -71,7 +71,7 @@ const Work = () => {
                             Properity Page
                         </span>
                         <div className="pt-8 text-center">
-                            <a href="property-weld.vercel.app">
+                            <a href="https://property-k26xk4blf-marosmichna.vercel.app/">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                             </a>
                             <a href="https://github.com/marosmichna/property">
