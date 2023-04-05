@@ -5,6 +5,7 @@ import NameAgeApp from "../images/name-age-app.png";
 import TaskApp from "../images/task-app.png";
 import ProperityApp from "../images/properity-app.png"
 import SearchingMoviesApp from "../images/Searching-movies.app.png"
+import InsuranceCalculatorApp from "../images/insurance-calculator-app.png"
 
 const Work = () => {
   return (
@@ -102,20 +103,20 @@ const Work = () => {
                 </div>
                 {/* Grid Item */}
 
-                <div style={{backgroundImage: `url(${WorkImg})`}}
+                <div style={{backgroundImage: `url(${InsuranceCalculatorApp})`}}
                     className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto container-div">
 
                     {/* Hover Effects */}
 
                     <div className="opacity-0 group-hover:opacity-100">
                         <span className="text-2xl font-bold text-white tracking-wider drop-shadow-lg shadow-black">
-                            React JS Application
+                            Insurance calculator
                         </span>
                         <div className="pt-8 text-center">
-                            <a href="/">
+                            <a href="https://insurance-calculator-qky514vow-marosmichna.vercel.app/">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/marosmichna/Insurance-calculator">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                             </a>
                         </div>
