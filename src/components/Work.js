@@ -92,7 +92,7 @@ const Work = () => {
                             Searching movies
                         </span>
                         <div className="pt-8 text-center">
-                            <a href="https://movie-search-rnj5u9f2d-marosmichna.vercel.app/">
+                            <a href="https://movie-search-et3oz0058-marosmichna.vercel.app/">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                             </a>
                             <a href="https://github.com/marosmichna/movie-search">
