@@ -16,7 +16,7 @@ const About = () => {
                         <p>Hi. I'm Maroš, nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
-                        <p>I'm a Junior React Developer specializing in building web pages. 
+                        <p>I'm a Medior Fullstack Developer specializing in building web pages. 
                             In the future, I would like to gain more experience and keep moving forward.Now I work a creat a local system for the company.In this system I creat tables and related functionalities.</p>
                     </div>
                 </div>

@@ -1,5 +1,4 @@
 import React from 'react';
-import WorkImg from "../images/WorkImg.jpg";
 import RealWork from "../images/RealWork.png";
 import NameAgeApp from "../images/name-age-app.png";
 import TaskApp from "../images/task-app.png";

@@ -8,6 +8,8 @@ import BootstrapImg from "../images/bootstrap.png";
 import GitHub from "../images/github.png";
 import Tailwind from "../images/tailwind.png";
 import Git from "../images/git.png";
+import Java from "../images/java-logo.png"
+import PHP from "../images/php.png"
 
 
 const Skills = () => {
@@ -53,6 +55,14 @@ const Skills = () => {
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-700">
                     <img className="w-20 mx-auto" src={GitHub} alt="GITHUB Icon" />
                     <p className="my-4">GITHUB</p>
+                </div>
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-700">
+                    <img className="w-20 mx-auto" src={Java} alt="GITHUB Icon" />
+                    <p className="my-4">JAVA</p>
+                </div>
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-700">
+                    <img className="w-20 mx-auto" src={PHP} alt="GITHUB Icon" />
+                    <p className="my-4">PHP</p>
                 </div>
             </div>
         </div>
