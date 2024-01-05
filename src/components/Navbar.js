@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import {FaBars, FaTimes, FaGithub, FaLinkedin} from "react-icons/fa";
 import {HiOutlineMail} from "react-icons/hi";
 import {BsFillPersonLinesFill} from "react-icons/bs";
-import Logo from "../images/logo.png";
 import MyLogo from "../images/my-logo-mm.png"
 import {Link} from "react-scroll";
 
@@ -23,6 +22,16 @@ const Navbar = () => {
 
         
             <ul className="hidden md:flex">
+                <li>
+                <a 
+                    href='https://your-play-marosmichna.vercel.app/'
+                    className="text-white bg-red-700 hover:bg-red-800 px-3 py-2 rounded-sm"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+        Your Play
+    </a>
+                </li>            
                 <li>
                     <Link  to="home" smooth={true} duration={500}>
                         Home
